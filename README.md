@@ -7,3 +7,7 @@
 
 ## Background
 - 🎓 
+
+Currently a student at 42 Heilbronn. 
+💻 I enjoy diving deep into programming and systems. 
+🛠 Skills: Shell | C | C++ | SQL | Python 🎯
